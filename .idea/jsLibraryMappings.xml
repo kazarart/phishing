@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="JavaScriptLibraryMappings">
+    <file url="file://$APPLICATION_CONFIG_DIR$/javascript/nodejs/16.14.0/core-modules/fs.js" libraries="{HTTP Response Handler}" />
+    <includedPredefinedLibrary name="Node.js Core" />
+  </component>
+</project>
