@@ -517,14 +517,12 @@
             <div data-v-4f11bcd6="" class="container" >
                 <a data-v-4f11bcd6="" href="" class="logo router-link-active"> НайдиФотографа </a>
                 <div data-v-4f11bcd6="" class="links">
-                    <a data-v-4f11bcd6="" href="" aria-current="page" class="router-link-exact-active router-link-active"> Карта </a>
                     <button onclick="script_sign_up();" data-v-4f11bcd6="" name = "sign_up" type="button" class="btn btn-outline-light btn-lg"> Войти </button>
                     <button onclick="script_sign_in();" data-v-4f11bcd6="" name = "sign_in" type="button"  class="btn btn-outline-light btn-lg"> Зарегистрироваться </button>
                 </div>
             </div><!----><!---->
         </header>
         <div data-v-46df9a21="" class="films-page container">
-            <h2 data-v-46df9a21="">Найди своего фотографа</h2>
             <div data-v-724b2ba6="" data-v-46df9a21="" class="film-list"></div>
         </div>
     </div>

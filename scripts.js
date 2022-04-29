@@ -32,5 +32,5 @@ function logging(){
     xhr.open( 'post', './write_to_logger.php', true );
     xhr.send(data);
 
-    window.location.href = 'http://192.168.0.73:8080/films/';
+    window.location.href = 'http://51.250.22.74:8081/photographers/';// заменить на поднятую вебку
 }
